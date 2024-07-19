@@ -143,4 +143,3 @@ plt.ylabel('Maximum range ToD response')
 plt.xlabel('Concentration')  
 # plt.savefig(path+'Max_ToD_'+str(opt)+'.svg')
 plt.show()
-
