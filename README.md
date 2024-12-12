@@ -30,12 +30,12 @@ Install the following toolboxes (MATLAB):
 ## Usage
 To run the scripts will need the data from https://itbfiles.biologie.hu-berlin.de/index.php/s/Ws3LmoPD4xAK7Zp?path=%2F.
 Save them in separate folders corresponding to the figures number.
-* For Fig2 scripts:
+For Fig2 scripts:
 -	fitting_lumicycle_data.py requires the file lumicycle_data_breast_U2OS_5to142h.xlsx (from folder Fig2_3)
 -	circadian_prop_exp.py requires the file Circadian_properties_lumicycle.xlsx (from folder Fig2_3)
-* For Fig3 script: 
+-	For Fig3 script: 
 -	drug_effect_tod_experim.py requires the file Circadian_properties_lumicycle.xlsx (from folder Fig2_3)
-* For Fig 4 script: 
+For Fig 4 script: 
 -	survival_drugs_age.py requires the file 081122_Drug_Stability.xlsx (from folder Fig4_5_6)
 For Fig5 script:
 -	exp_drc_time_eval.py requires the file 041922_Dose_Response.xlsx (from folder Fig4_5_6)
